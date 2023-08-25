@@ -1,0 +1,46 @@
+Background:
+
+Any feedback will be highly appreciated:)
+
+Purpose of Specification:
+The purpose of SRS is to share how I should implement tasks that I gave to myself to practically learn basics of Python and get used to resolve coding issues.
+This also should be recognized as a pet-project
+
+Overall requirements:
+There should be a possibility to skip any step of HL or LL lesson by a Viewer.
+An interactive journey of a Viewer should include sharing some key Python theory to use it as useful notes for future purpose.
+Source code for the whole interactive presentation you may find here: TBD
+
+HL Decomposition, practice:
+Basic topics
+- Basic syntax
+- Variables
+- Data Types
+- Type Conversion
+- Sequence range()
+- Conditionals
+- Iterators
+- Errors and Exceptions
+- Functions
+
+
+More advanced topics:
+- OOP
+- Generators
+- Functional programming VS OOP
+- Modules
+
+Tricks and peculiarities:
+- List Comprehensions
+- Method sort() and functions sorted()
+- F-strings
+- Module Random
+- Type annotations
+- Parent and child Classes - Inheritance
+- Regular Expressions, RegEx
+- Useful Builtin Functions
+- Zip and unzip
+- Args and Kwargs
+- Useful Builtin Modules
+
+LL Decomposition:
