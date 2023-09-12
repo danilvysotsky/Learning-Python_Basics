@@ -13,7 +13,8 @@ Source code for the whole interactive presentation you may find here: TBD
 
 HL Decomposition, practice:
 Basic topics
-- Basic syntax
+- Strings
+- Basic syntax & Numbers
 - Variables
 - Data Types
 - Type Conversion
@@ -44,3 +45,10 @@ Tricks and peculiarities:
 - Useful Builtin Modules
 
 LL Decomposition:
+
+
+Topic Strings User Flow:
+input()
+F-string
+String slicing
+Concatenation and Indexing
